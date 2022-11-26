@@ -1,3 +1,4 @@
+import java.time.LocalDate
 public class Main {
     public static void main(String[] args) {
         // Задание 1
@@ -70,6 +71,12 @@ public class Main {
         //Задание 7
         System.out.println("Задание 7");
 
-    }
-}
-
+//Задание 2
+    int i = 1;
+        while (i <= 10)
+                {
+                System.out.println(i);
+                i++;   //увеличение i на 1
+                }
+                }
+                }
